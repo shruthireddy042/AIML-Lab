@@ -7,3 +7,4 @@
 ##Aiml lab-7
 ##Aiml lab-8
 ##Aiml lab-9
+##Aiml lab-10
